@@ -61,3 +61,23 @@ Based on this model, the r-squared value was about 86% and RMSE was 144,371.
 # Future Work
 Going forward, I want to explore different features and their effect on price to include in the model for an even lower RMSE. 
 Additionally, I would run more models to determine if there are any that result in more accurate predictions.
+
+# Repository Structure
+```
+├── code
+│   ├── Proj2_notebook_raw.ipynb
+│   ├── Final Project 1 Notebook.ipynb
+│   ├── PullingDataProj1.ipynb
+│   └── functions.py
+├── data
+│   ├── crimes.csv
+│   ├── housing_preds_anisha_malhotra.csv
+│   ├── kc_house_data_test_features.csv
+│   ├── kc_house_data_train.csv
+│   └── zip_code_database.csv
+├── images
+├── Proj1Presentation.pdf
+├── README.md
+├── br_median.pickle
+└── model.pickle
+```
